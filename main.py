@@ -52,15 +52,15 @@ async def start(client, message):
             InlineKeyboardButton("❮ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ❯", url=f"https://t.me/DHAT_TERI_LOL_CHAT_BOT?startgroup=true")
         ]
         ]
-        video = "https://telegra.ph/file/6bb3994d5789d8e7f2c99.mp4"
+        video = "https://telegra.ph/file/53a9240114ad504b5edf4.jpg"
         await message.reply_video(video, caption=f"""ʜᴇʟʟᴏ[{message.from_user.first_name}](tg://user?id={message.from_user.id}),
 ɪ ᴀᴍ ᴄʜᴀᴛʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ...
 
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴏᴡɴᴇʀ   [ᴏғғɪᴄɪᴀʟ ʜᴀᴄᴋᴇʀ](https://t.me/OFFICIALHACKERERA)
-┣★ ᴜᴘᴅᴀᴛᴇs [ᴏғғɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ](https://t.me/OFFICIALHACKER789)
-┣★ sᴜᴘᴘᴏʀᴛ [ᴏғғɪᴄɪᴀʟ ɢʀᴏᴜᴘ](https://t.me/HEPPYLIFI)
-┣★ sᴏᴜʀᴄᴇ  [ɢᴇᴛ ʀᴇᴘᴏ ʜᴇʀᴇ](https://github.com/OFFICIALHACKERERA/CHATBOT)
+┣★ ᴏᴡɴᴇʀ   [ᴏғғɪᴄɪᴀʟ ʜᴀᴄᴋᴇʀ](https://t.me/XD_LIF)
+┣★ ᴜᴘᴅᴀᴛᴇs [ᴏғғɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ](https://t.me/DCR_OFFICIAL)
+┣★ sᴜᴘᴘᴏʀᴛ [ᴏғғɪᴄɪᴀʟ ɢʀᴏᴜᴘ](https://t.me/DCR_OFFICIAL)
+┣★ sᴏᴜʀᴄᴇ  [ɢᴇᴛ ʀᴇᴘᴏ ʜᴇʀᴇ](https://t.me/fenix_xd)
 ┗━━━━━━━━━━━━━━━━━┛
 """, reply_markup=InlineKeyboardMarkup(buttons))
 
